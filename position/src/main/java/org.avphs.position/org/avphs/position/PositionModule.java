@@ -3,8 +3,6 @@ package org.avphs.position;
 import org.avphs.core.CarCommand;
 import org.avphs.core.CarModule;
 
-import java.util.Collection;
-
 public class PositionModule implements CarModule {
 
     @Override
